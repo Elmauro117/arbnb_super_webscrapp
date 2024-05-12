@@ -1,5 +1,5 @@
 # arbnb_super_webscrapp
-
+Python scripts that uses Selenium to scrapp all sort of data from each ABNB. We are talking about, prices, places, comentaries, views, permissions, etc. Hope this might be helpful evne in your journey to get a house!
 
 #### Attention:
 1.- The file "copy" si the one with the definitions completed. The other one has a lot of code on how I developed it.
